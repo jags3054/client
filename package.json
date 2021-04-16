@@ -1,6 +1,6 @@
 {
   "name": "tododemo",
-  "homepage": "https://pbiradar677.github.io/",
+  "homepage": "https://jags3054.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://34.123.161.59/api"
 }
