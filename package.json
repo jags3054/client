@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://34.123.161.59/api"
+  "proxy": "http://34.123.161.59/api/todos"
 }
